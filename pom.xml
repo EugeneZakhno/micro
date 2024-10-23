@@ -22,7 +22,7 @@
         <developer/>
     </developers>
     <modules>
-        <module>client</module>
+        <module>customer</module>
     </modules>
     <scm>
         <connection/>
